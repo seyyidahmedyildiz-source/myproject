@@ -1,0 +1,13 @@
+=== Qualitätsbericht ===
+Fehlerhafte Zeilen: 0  |  <=0 EUR: 1  |  Positive: 5
+
+=== KPIs ===
+Gesamtumsatz: 181.39 EUR   |   Durchschnittsbon: 36.28 EUR
+
+Umsatz je Stadt:
+  - Köln: 149.40 EUR
+  - Bonn: 31.99 EUR
+
+Umsatz je Kanal:
+  - filiale: 97.00 EUR
+  - online: 84.39 EUR

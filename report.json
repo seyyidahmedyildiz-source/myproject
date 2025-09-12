@@ -1,0 +1,13 @@
+{
+  "gesamtumsatz": 181.39,
+  "positive_transaktionen": 5,
+  "durchschnittsbon": 36.28,
+  "umsatz_je_stadt": {
+    "Köln": 149.4,
+    "Bonn": 31.99
+  },
+  "umsatz_je_kanal": {
+    "online": 84.39,
+    "filiale": 97.0
+  }
+}
