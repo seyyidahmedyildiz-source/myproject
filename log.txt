@@ -67,3 +67,6 @@
 2025-09-12 16:33:58,414 INFO Start CSV-Audit
 2025-09-12 16:33:58,416 INFO CSV geladen: beispiel.csv | Zeilen: 6
 2025-09-12 16:33:58,416 INFO KPIs: umsatz=181.39 | pos=5 | durchschnitt=36.28
+2025-09-12 19:34:00,643 INFO Start CSV-Audit
+2025-09-12 19:34:00,647 INFO CSV geladen: beispiel.csv | Zeilen: 6
+2025-09-12 19:34:00,647 INFO KPIs: umsatz=181.39 | pos=5 | durchschnitt=36.28
