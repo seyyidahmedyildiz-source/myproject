@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+logt.txt
+.venv/
+.python-version
