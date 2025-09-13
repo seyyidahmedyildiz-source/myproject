@@ -1,7 +1,10 @@
 [project]
-name = "python-template"
+name = "csv-audit-ahmed"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
-requires-python = ">=3.11"
+description = "A simple CSV audit tool"
+readme = "README.md"
+requires-python = ">=3.10"
 dependencies = []
+
+[project.scripts]
+csv-audit = "main:main"
